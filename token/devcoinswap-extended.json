@@ -13,6 +13,14 @@
   ],
   "tokens": [
     {
+      "name": "Developer Coin",
+      "symbol": "DEVCOIN",
+      "address": "0x371d5e4BF4f2686905Ca87597Ba3d48A8f63B421",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://token.devcoinx.top/token/images/0x371d5e4BF4f2686905Ca87597Ba3d48A8f63B421.png"
+    },
+    {
       "name": "Softwareploit",
       "symbol": "SFTPROJECT",
       "address": "0xCf0f488Ce25C1d67873De21017108f4A185eEE5E",
